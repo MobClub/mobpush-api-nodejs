@@ -1,0 +1,21 @@
+*.class
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+# Package Files #
+hs_err_pid*
+target
+*.classpath
+*.project
+.externalToolBuilders/
+logs/
+*.log
+.DS_Store
+
+#idea
+*.idea
+*.iml
+.svn
+*.svn
+node_modules/
+#project
+.pydevproject
